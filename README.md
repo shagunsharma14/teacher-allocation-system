@@ -38,7 +38,8 @@ This system is built on **Google Sheets** and **Google Apps Script**. It uses a 
 
 ## 📸 Screenshots
 
-*(You can upload images of your dashboard here later!)*
+<img width="1608" height="677" alt="image" src="https://github.com/user-attachments/assets/559fd0e3-2ec8-4129-ad9d-37f21679533a" />
+
 
 ## 📄 License
 
